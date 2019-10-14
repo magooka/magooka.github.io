@@ -1,0 +1,2 @@
+# OsakanaCardBattlePublic
+# magooka.github.io
